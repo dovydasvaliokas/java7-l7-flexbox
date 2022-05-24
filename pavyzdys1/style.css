@@ -1,0 +1,21 @@
+.isorinis-flexbox {
+    display: flex;
+    border: 1px solid black;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.vidinis-mygtukas {
+    height: 40px;
+    background-color: beige;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.mygtuko-nuoroda {
+    display: block;
+    padding: 0.5em;
+}
