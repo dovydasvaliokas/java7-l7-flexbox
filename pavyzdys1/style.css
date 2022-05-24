@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .isorinis-flexbox {
     display: flex;
     border: 1px solid black;
@@ -16,6 +20,7 @@
 }
 
 .mygtuko-nuoroda {
+    height: 40px;
     display: block;
     padding: 0.5em;
 }
